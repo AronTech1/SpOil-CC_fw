@@ -1,0 +1,7 @@
+../Core/Src/i2c/i2c.c:13:6:clearWriteBuf	16	static
+../Core/Src/i2c/i2c.c:20:6:clearReadBuf	16	static
+../Core/Src/i2c/i2c.c:27:7:i2cConcatenate	24	static
+../Core/Src/i2c/i2c.c:44:20:i2cApWrite	32	static
+../Core/Src/i2c/i2c.c:60:20:i2cApRead	24	static
+../Core/Src/i2c/i2c.c:73:20:i2cBqWrite	32	static
+../Core/Src/i2c/i2c.c:89:20:i2cBqRead	24	static

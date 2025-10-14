@@ -1,0 +1,3 @@
+../Core/Src/log/log.c:10:19:logString	2
+../Core/Src/log/log.c:19:19:logInteger	2
+../Core/Src/log/log.c:28:19:logFloat	2

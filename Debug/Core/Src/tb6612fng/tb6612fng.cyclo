@@ -1,0 +1,12 @@
+../Core/Src/tb6612fng/tb6612fng.c:10:13:tbSetStndbyPin	1
+../Core/Src/tb6612fng/tb6612fng.c:14:13:tbSetAin1Pin	1
+../Core/Src/tb6612fng/tb6612fng.c:18:13:tbSetAin2Pin	1
+../Core/Src/tb6612fng/tb6612fng.c:22:6:tbPmwStart	1
+../Core/Src/tb6612fng/tb6612fng.c:30:13:tbSetDutyCycle	1
+../Core/Src/tb6612fng/tb6612fng.c:34:13:tbResetDutyCycle	1
+../Core/Src/tb6612fng/tb6612fng.c:38:6:tbMotorCw	2
+../Core/Src/tb6612fng/tb6612fng.c:53:6:tbMotorCcw	2
+../Core/Src/tb6612fng/tb6612fng.c:68:6:tbMotorShortBrake	1
+../Core/Src/tb6612fng/tb6612fng.c:77:6:tbMotorStop	1
+../Core/Src/tb6612fng/tb6612fng.c:86:6:tbMotorStndby	1
+../Core/Src/tb6612fng/tb6612fng.c:96:6:tbMotorDrive	6
